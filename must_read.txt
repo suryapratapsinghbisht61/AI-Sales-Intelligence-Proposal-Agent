@@ -1,0 +1,4 @@
+for demo use sign as 
+email=  demo@example.com
+pass = demo-password-123
+source "/Users/js/Desktop/AI Sales Intelligence & Proposal Agent/backend/.venv/bin/activate"
