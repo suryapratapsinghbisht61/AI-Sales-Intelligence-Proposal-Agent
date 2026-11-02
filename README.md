@@ -81,3 +81,4 @@ auto-sent), proposal versions/regeneration/DOCX export, analytics, usage and aud
 Not implemented (shown honestly as "Coming soon" in the UI): Google Drive, SharePoint, HubSpot, Salesforce, Gmail,
 Calendar and Slack integrations; transactional email (reset/invite links are logged/displayed instead); PDF export;
 OCR for scanned PDFs; billing; Postgres row-level security; a shared rate limiter for multiple API replicas.
+# customer-query-rag-chat-bot
